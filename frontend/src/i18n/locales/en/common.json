@@ -1,0 +1,44 @@
+{
+  "app": {
+    "name": "Smart School Learning",
+    "tagline": "Learning, thoughtfully",
+    "developmentShell": "Development shell"
+  },
+  "navigation": {
+    "workspace": "Workspace",
+    "main": "Main navigation",
+    "overview": "Overview"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "dashboard": {
+    "eyebrow": "YOUR LEARNING SPACE",
+    "title": "Welcome to your learning space",
+    "description": "A calm, focused place for the learning journey ahead. Your school experience starts here.",
+    "foundationEyebrow": "A STRONG START",
+    "foundationTitle": "Your platform foundation is ready",
+    "foundationDescription": "The core application is in place. The next step is shaping the learning structure for Class 8.",
+    "exploreFoundation": "Explore foundation",
+    "sectionEyebrow": "WHAT COMES NEXT",
+    "sectionTitle": "The next building blocks",
+    "phaseLabel": "NEXT MILESTONE",
+    "stepOne": "01",
+    "stepOneTitle": "Learning structure",
+    "stepOneDescription": "Define classes, subjects and chapters to create a clear path through the curriculum.",
+    "stepTwo": "02",
+    "stepTwoTitle": "Question foundation",
+    "stepTwoDescription": "Design a flexible question model that can grow into multilingual practice and assessment.",
+    "noDataNote": "This is a development shell. No student accounts, activity or analytics are shown."
+  },
+  "common": {
+    "loading": "Loading…"
+  },
+  "errors": {
+    "unexpectedTitle": "Something went wrong",
+    "unexpectedBody": "The page could not be displayed. Please reload and try again.",
+    "notFoundTitle": "Page not found",
+    "notFoundBody": "The page you are looking for does not exist.",
+    "returnHome": "Return to overview"
+  }
+}

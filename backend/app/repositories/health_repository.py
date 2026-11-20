@@ -1,0 +1,8 @@
+from sqlalchemy import text
+from sqlalchemy.orm import Session
+
+
+class DatabaseHealthRepository:
+    @staticmethod
+    def ping(session: Session) -> None:
+        session.execute(text("SELECT 1"))
